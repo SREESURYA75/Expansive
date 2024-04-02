@@ -1,0 +1,139 @@
+
+#filter{
+    /* background-color: rgb(9, 11, 10); */
+background-image: url('https://www.bing.com/th?id=OIP.L0fHj-mM9am5u2UlL18McQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2');
+
+    padding: 5px;
+    margin-left: 320px;
+    width: 550px;   
+    
+}
+#fil{
+  display: flex;
+   margin-top: 20px;
+  margin-right: 10px;
+}
+#f{
+    color: white;
+    margin-top: 10px;
+    
+
+}
+#f1{
+    /* margin-top: 00px; */
+  
+    height: 25px;
+   
+    transform: translateX(14em);
+
+
+}
+#item{
+    /* height: 120px; */
+    /* background-color: rgb(128, 128, 159); */
+background-image: url('https://phccnews.com/wp-content/uploads/2018/04/Sigma80-perspective.png');
+
+    display: flex;
+    padding: 15px;
+    height: 100px;
+    margin-top: 5px;
+}
+#loan{
+    margin-top: 24px;
+    margin-left: 20px;
+    color: white;
+}
+#cost{
+    text-align: center;
+    margin-top:26px;
+    margin-left: 100px;
+
+}
+h6{
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: black;
+    padding: 2px;
+    height: 12px;
+    width: 60px;
+    color: white;   
+    /* margin-right: 50px; */
+    margin-top: 14px;
+}
+#del{
+   border-color: black;
+}
+#empty{
+    color: rgb(223, 223, 230);
+    text-align: center;
+}
+@media only screen and (max-width:600px){
+
+    #empty{
+        color: rgb(223, 223, 230);
+        text-align: center;
+    }
+#filter{
+    /* background-color: rgb(9, 11, 10); */
+background-image: url('https://www.bing.com/th?id=OIP.L0fHj-mM9am5u2UlL18McQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2');
+
+    padding: 6px;
+    margin-left: 10px;
+    width: 350px;   
+    
+}
+#fil{
+  display: flex;
+  margin-top: px;
+  
+}
+#f{
+    color: white;
+
+    
+
+}
+#f1{
+    margin-top: -px; 
+    /* margin-right: -20px; */
+    /* margin-right: 180px; */
+     /* height: 25px; */
+    /* transform: translateX(28em); */
+
+
+}
+#item{
+    /* height: 120px; */
+    /* background-color: rgb(128, 128, 159); */
+background-image: url('https://phccnews.com/wp-content/uploads/2018/04/Sigma80-perspective.png');
+
+    display: flex;
+    padding: 1px;
+    height: 120px;
+    /* margin-top: 4px; */
+    margin-bottom: 10px;
+}
+#loan{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+}
+#cost{
+    text-align: center;
+    margin-top:17px;
+    margin-left: 20px;
+
+}
+h6{
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: black;
+    padding: 2px;
+    height: 18px;
+    width: 50px;
+    color: white;   
+    /* margin-right: 50px; */
+    margin-top: 10px;
+}
+    
+}
